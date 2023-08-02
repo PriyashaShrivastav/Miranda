@@ -6,6 +6,9 @@
     font-family: editorial;
     src: url(./Editorial.ttf);
 }
+@font-face {
+    font-family: canopee;
+    src: url(./canopee.ttf);
 
 *{
     margin: 0;
